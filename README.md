@@ -4,6 +4,10 @@ A premium, framework-free HTML template for online education platforms and cours
 
 ---
 
+## 📸 Screenshot
+
+![Homepage Preview](screenshot.png)
+
 ## Live Pages
 
 | Page | File | Description |
